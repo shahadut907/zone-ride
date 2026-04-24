@@ -4,45 +4,45 @@ A zone-based delivery service app built with React Native and Expo. The app supp
 
 ## Prerequisites
 
-আগে এগুলো install করে নাও:
+Make sure you have the following installed before starting:
 
-1. **[Node.js](https://nodejs.org/)** — v18 বা তার পরের version (LTS recommended)
-2. **[Expo Go](https://expo.dev/go)** — তোমার ফোনে install করো (Android / iOS)
-   - অথবা Android Emulator / iOS Simulator ব্যবহার করতে পারো
+1. **[Node.js](https://nodejs.org/)** — v18 or later (LTS recommended)
+2. **[Expo Go](https://expo.dev/go)** — Install on your phone (Android / iOS)
+   - Or use an Android Emulator / iOS Simulator
 
-> **Note:** `npm` এবং `npx` Node.js এর সাথে automatically install হয়ে যায়।
+> **Note:** `npm` and `npx` come bundled with Node.js automatically.
 
 ## Getting Started
 
-### 1. ZIP extract করো
+### 1. Extract the ZIP
 
-ZIP ফাইলটা extract করো যেকোনো জায়গায়, তারপর terminal/command prompt এ সেই folder এ যাও:
+Extract the ZIP file anywhere on your machine, then open a terminal and navigate to the project folder:
 
 ```bash
 cd ZoneRide
 ```
 
-> ⚠️ **`node_modules/` ফোল্ডারটি ZIP এ নেই** — এটা normal, পরের step এ install হয়ে যাবে।
+> ⚠️ **The `node_modules/` folder is not included in the ZIP** — this is normal. It will be installed in the next step.
 
-### 2. Dependencies install করো
+### 2. Install dependencies
 
 ```bash
 npm install
 ```
 
-এতে কয়েক মিনিট লাগতে পারে (internet speed এর উপর depend করে)।
+This may take a few minutes depending on your internet speed.
 
-### 3. Development server start করো
+### 3. Start the development server
 
 ```bash
 npx expo start --clear
 ```
 
-Terminal এ একটা QR code আসবে। এরপর:
+A QR code will appear in the terminal. From there:
 
-- 📱 **Expo Go** app দিয়ে QR code **scan** করো (ফোন আর PC একই WiFi তে থাকতে হবে)
-- **`a`** press করো Android emulator এ open করতে
-- **`i`** press করো iOS simulator এ open করতে (শুধু macOS)
+- 📱 **Scan the QR code** with the Expo Go app on your phone (phone and PC must be on the same WiFi network)
+- Press **`a`** to open on an Android emulator
+- Press **`i`** to open on an iOS simulator (macOS only)
 
 ## Available Scripts
 
