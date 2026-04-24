@@ -1,0 +1,106 @@
+[
+  {
+    "id": "chat-1",
+    "participantName": "Nadim Hasan",
+    "participantRole": "rider",
+    "area": "Uttara Sector 7",
+    "messages": [
+      {
+        "id": "msg-1",
+        "senderRole": "customer",
+        "text": "Hi, are you near Uttara Sector 7?",
+        "timestamp": "2025-06-01T10:30:00Z"
+      },
+      {
+        "id": "msg-2",
+        "senderRole": "rider",
+        "text": "Yes, I am near the main road. I can pick up your order.",
+        "timestamp": "2025-06-01T10:31:00Z"
+      },
+      {
+        "id": "msg-3",
+        "senderRole": "customer",
+        "text": "Great! Please collect from Dhaka Bites. It's a small parcel.",
+        "timestamp": "2025-06-01T10:32:00Z"
+      },
+      {
+        "id": "msg-4",
+        "senderRole": "rider",
+        "text": "Sure, what's the delivery address?",
+        "timestamp": "2025-06-01T10:33:00Z"
+      },
+      {
+        "id": "msg-5",
+        "senderRole": "customer",
+        "text": "Flat 3B, Green Valley Apartment, Uttara Sector 7. Please call when you arrive.",
+        "timestamp": "2025-06-01T10:34:00Z"
+      },
+      {
+        "id": "msg-6",
+        "senderRole": "rider",
+        "text": "Got it! On my way to pick up. Should be there in 15 minutes.",
+        "timestamp": "2025-06-01T10:35:00Z"
+      },
+      {
+        "id": "msg-7",
+        "senderRole": "customer",
+        "text": "Thank you so much! 🙏",
+        "timestamp": "2025-06-01T10:36:00Z"
+      }
+    ],
+    "lastMessage": "Thank you so much! 🙏",
+    "lastTimestamp": "2025-06-01T10:36:00Z"
+  },
+  {
+    "id": "chat-2",
+    "participantName": "Dhaka Bites",
+    "participantRole": "shop",
+    "area": "Uttara Sector 7",
+    "messages": [
+      {
+        "id": "msg-8",
+        "senderRole": "customer",
+        "text": "Is the rice available?",
+        "timestamp": "2025-06-01T10:25:00Z"
+      },
+      {
+        "id": "msg-9",
+        "senderRole": "shop",
+        "text": "Yes, we have Basmati and Miniket rice in stock.",
+        "timestamp": "2025-06-01T10:26:00Z"
+      },
+      {
+        "id": "msg-10",
+        "senderRole": "customer",
+        "text": "How much is 5kg Miniket?",
+        "timestamp": "2025-06-01T10:27:00Z"
+      },
+      {
+        "id": "msg-11",
+        "senderRole": "shop",
+        "text": "5kg Miniket is 320 BDT. Would you like to place an order?",
+        "timestamp": "2025-06-01T10:28:00Z"
+      },
+      {
+        "id": "msg-12",
+        "senderRole": "customer",
+        "text": "Yes please, and add 1kg sugar too. What's the total?",
+        "timestamp": "2025-06-01T10:29:00Z"
+      },
+      {
+        "id": "msg-13",
+        "senderRole": "shop",
+        "text": "5kg Miniket + 1kg sugar = 420 BDT total. I'll prepare the order now!",
+        "timestamp": "2025-06-01T10:30:00Z"
+      },
+      {
+        "id": "msg-14",
+        "senderRole": "customer",
+        "text": "Perfect, I'll send a rider shortly. Thanks!",
+        "timestamp": "2025-06-01T10:31:00Z"
+      }
+    ],
+    "lastMessage": "Perfect, I'll send a rider shortly. Thanks!",
+    "lastTimestamp": "2025-06-01T10:31:00Z"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "rider-1",
+    "name": "Nadim Hasan",
+    "rating": 4.8,
+    "isActive": true,
+    "vehicleType": "Bike",
+    "servedAreas": ["Uttara Sector 7", "Uttara Sector 10"],
+    "phone": "+8801711111111",
+    "subscriptionState": "subscribed"
+  },
+  {
+    "id": "rider-2",
+    "name": "Jamal Uddin",
+    "rating": 4.5,
+    "isActive": true,
+    "vehicleType": "Bicycle",
+    "servedAreas": ["Mirpur 10", "Banani"],
+    "phone": "+8801722222222",
+    "subscriptionState": "subscribed"
+  },
+  {
+    "id": "rider-3",
+    "name": "Rafiq Mia",
+    "rating": 4.2,
+    "isActive": false,
+    "vehicleType": "Walking",
+    "servedAreas": ["Dhanmondi"],
+    "phone": "+8801733333333",
+    "subscriptionState": "unsubscribed"
+  },
+  {
+    "id": "rider-4",
+    "name": "Shakil Ahmed",
+    "rating": 4.9,
+    "isActive": true,
+    "vehicleType": "Bike",
+    "servedAreas": ["Uttara Sector 7", "Banani", "Dhanmondi"],
+    "phone": "+8801744444444",
+    "subscriptionState": "subscribed"
+  },
+  {
+    "id": "rider-5",
+    "name": "Noman Khan",
+    "rating": 3.8,
+    "isActive": true,
+    "vehicleType": "Bicycle",
+    "servedAreas": ["Uttara Sector 10", "Mirpur 10"],
+    "phone": "+8801755555555",
+    "subscriptionState": "blocked"
+  },
+  {
+    "id": "rider-6",
+    "name": "Arif Hossain",
+    "rating": 4.7,
+    "isActive": true,
+    "vehicleType": "Bike",
+    "servedAreas": ["Uttara Sector 7", "Mirpur 10", "Banani"],
+    "phone": "+8801766666666",
+    "subscriptionState": "unsubscribed"
+  },
+  {
+    "id": "rider-7",
+    "name": "Tanvir Rahman",
+    "rating": 4.6,
+    "isActive": true,
+    "vehicleType": "Bike",
+    "servedAreas": ["Dhanmondi", "Banani", "Uttara Sector 7"],
+    "phone": "+8801777777777",
+    "subscriptionState": "unsubscribed"
+  },
+  {
+    "id": "rider-8",
+    "name": "Farhan Islam",
+    "rating": 4.3,
+    "isActive": true,
+    "vehicleType": "Bicycle",
+    "servedAreas": ["Uttara Sector 10", "Uttara Sector 7"],
+    "phone": "+8801788888888",
+    "subscriptionState": "unsubscribed"
+  },
+  {
+    "id": "rider-9",
+    "name": "Imran Chowdhury",
+    "rating": 4.4,
+    "isActive": true,
+    "vehicleType": "Bike",
+    "servedAreas": ["Gulshan 1", "Gulshan 2", "Banani"],
+    "phone": "+8801791111111",
+    "subscriptionState": "subscribed"
+  },
+  {
+    "id": "rider-10",
+    "name": "Sohel Rana",
+    "rating": 4.1,
+    "isActive": true,
+    "vehicleType": "Bicycle",
+    "servedAreas": ["Gulshan 2", "Mohakhali"],
+    "phone": "+8801792222222",
+    "subscriptionState": "unsubscribed"
+  },
+  {
+    "id": "rider-11",
+    "name": "Rubel Haque",
+    "rating": 4.6,
+    "isActive": true,
+    "vehicleType": "Bike",
+    "servedAreas": ["Mohakhali", "Farmgate", "Tejgaon"],
+    "phone": "+8801793333333",
+    "subscriptionState": "subscribed"
+  },
+  {
+    "id": "rider-12",
+    "name": "Masud Parvez",
+    "rating": 4.0,
+    "isActive": false,
+    "vehicleType": "Walking",
+    "servedAreas": ["Farmgate", "Shahbag"],
+    "phone": "+8801794444444",
+    "subscriptionState": "unsubscribed"
+  },
+  {
+    "id": "rider-13",
+    "name": "Belal Uddin",
+    "rating": 4.7,
+    "isActive": true,
+    "vehicleType": "Bike",
+    "servedAreas": ["Motijheel", "Malibagh", "Khilgaon"],
+    "phone": "+8801795555555",
+    "subscriptionState": "subscribed"
+  },
+  {
+    "id": "rider-14",
+    "name": "Zahid Hasan",
+    "rating": 4.3,
+    "isActive": true,
+    "vehicleType": "Bicycle",
+    "servedAreas": ["Shahbag", "Farmgate", "Dhanmondi"],
+    "phone": "+8801796666666",
+    "subscriptionState": "unsubscribed"
+  },
+  {
+    "id": "rider-15",
+    "name": "Rakib Sarker",
+    "rating": 4.5,
+    "isActive": true,
+    "vehicleType": "Bike",
+    "servedAreas": ["Tejgaon", "Mohakhali", "Gulshan 1"],
+    "phone": "+8801797777777",
+    "subscriptionState": "subscribed"
+  },
+  {
+    "id": "rider-16",
+    "name": "Faisal Mahmud",
+    "rating": 4.8,
+    "isActive": true,
+    "vehicleType": "Bike",
+    "servedAreas": ["Bashundhara", "Gulshan 2", "Gulshan 1"],
+    "phone": "+8801798888888",
+    "subscriptionState": "subscribed"
+  },
+  {
+    "id": "rider-17",
+    "name": "Milon Das",
+    "rating": 3.9,
+    "isActive": true,
+    "vehicleType": "Bicycle",
+    "servedAreas": ["Khilgaon", "Malibagh", "Motijheel"],
+    "phone": "+8801799999999",
+    "subscriptionState": "unsubscribed"
+  },
+  {
+    "id": "rider-18",
+    "name": "Jubayer Ali",
+    "rating": 4.2,
+    "isActive": true,
+    "vehicleType": "Bike",
+    "servedAreas": ["Malibagh", "Khilgaon", "Shahbag"],
+    "phone": "+8801700111111",
+    "subscriptionState": "unsubscribed"
+  },
+  {
+    "id": "rider-19",
+    "name": "Sumon Roy",
+    "rating": 4.6,
+    "isActive": true,
+    "vehicleType": "Bike",
+    "servedAreas": ["Bashundhara", "Uttara Sector 10"],
+    "phone": "+8801700222222",
+    "subscriptionState": "subscribed"
+  },
+  {
+    "id": "rider-20",
+    "name": "Hasib Reza",
+    "rating": 4.4,
+    "isActive": false,
+    "vehicleType": "Walking",
+    "servedAreas": ["Gulshan 1", "Gulshan 2"],
+    "phone": "+8801700333333",
+    "subscriptionState": "unsubscribed"
+  }
+]

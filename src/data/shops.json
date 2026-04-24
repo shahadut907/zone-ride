@@ -1,0 +1,302 @@
+[
+  {
+    "id": "shop-1",
+    "name": "Dhaka Bites",
+    "rating": 4.6,
+    "isOpen": true,
+    "area": "Uttara Sector 7",
+    "workingHours": "9:00 AM - 10:00 PM",
+    "menuImages": [],
+    "phone": "+8801811111111"
+  },
+  {
+    "id": "shop-2",
+    "name": "Fresh Basket",
+    "rating": 4.3,
+    "isOpen": true,
+    "area": "Mirpur 10",
+    "workingHours": "8:00 AM - 9:00 PM",
+    "menuImages": [],
+    "phone": "+8801822222222"
+  },
+  {
+    "id": "shop-3",
+    "name": "Banani Grocery",
+    "rating": 4.7,
+    "isOpen": false,
+    "area": "Banani",
+    "workingHours": "10:00 AM - 8:00 PM",
+    "menuImages": [],
+    "phone": "+8801833333333"
+  },
+  {
+    "id": "shop-4",
+    "name": "Dhanmondi Pharmacy",
+    "rating": 4.1,
+    "isOpen": true,
+    "area": "Dhanmondi",
+    "workingHours": "24 Hours",
+    "menuImages": [],
+    "phone": "+8801844444444"
+  },
+  {
+    "id": "shop-5",
+    "name": "Star Mart",
+    "rating": 4.4,
+    "isOpen": true,
+    "area": "Uttara Sector 10",
+    "workingHours": "7:00 AM - 11:00 PM",
+    "menuImages": [],
+    "phone": "+8801855555555"
+  },
+  {
+    "id": "shop-6",
+    "name": "Gulshan Sweets",
+    "rating": 4.8,
+    "isOpen": true,
+    "area": "Uttara Sector 7",
+    "workingHours": "8:00 AM - 10:00 PM",
+    "menuImages": [],
+    "phone": "+8801866666666"
+  },
+  {
+    "id": "shop-7",
+    "name": "Mirpur Bazaar",
+    "rating": 4.2,
+    "isOpen": true,
+    "area": "Mirpur 10",
+    "workingHours": "7:00 AM - 9:30 PM",
+    "menuImages": [],
+    "phone": "+8801877777777"
+  },
+  {
+    "id": "shop-8",
+    "name": "Royal Kitchen",
+    "rating": 4.5,
+    "isOpen": true,
+    "area": "Banani",
+    "workingHours": "10:00 AM - 11:00 PM",
+    "menuImages": [],
+    "phone": "+8801888888888"
+  },
+  {
+    "id": "shop-9",
+    "name": "Madina Store",
+    "rating": 4.0,
+    "isOpen": false,
+    "area": "Dhanmondi",
+    "workingHours": "9:00 AM - 8:00 PM",
+    "menuImages": [],
+    "phone": "+8801899999999"
+  },
+  {
+    "id": "shop-10",
+    "name": "Bismillah Mart",
+    "rating": 4.6,
+    "isOpen": true,
+    "area": "Uttara Sector 10",
+    "workingHours": "6:30 AM - 10:30 PM",
+    "menuImages": [],
+    "phone": "+8801800000000"
+  },
+  {
+    "id": "shop-11",
+    "name": "Gulshan Elite Foods",
+    "rating": 4.9,
+    "isOpen": true,
+    "area": "Gulshan 1",
+    "workingHours": "9:00 AM - 11:00 PM",
+    "menuImages": [],
+    "phone": "+8801801111111"
+  },
+  {
+    "id": "shop-12",
+    "name": "The Daily Basket",
+    "rating": 4.5,
+    "isOpen": true,
+    "area": "Gulshan 2",
+    "workingHours": "8:00 AM - 10:00 PM",
+    "menuImages": [],
+    "phone": "+8801802222222"
+  },
+  {
+    "id": "shop-13",
+    "name": "Mohakhali Fresh",
+    "rating": 4.3,
+    "isOpen": true,
+    "area": "Mohakhali",
+    "workingHours": "7:30 AM - 9:30 PM",
+    "menuImages": [],
+    "phone": "+8801803333333"
+  },
+  {
+    "id": "shop-14",
+    "name": "City Pharma",
+    "rating": 4.1,
+    "isOpen": true,
+    "area": "Mohakhali",
+    "workingHours": "24 Hours",
+    "menuImages": [],
+    "phone": "+8801804444444"
+  },
+  {
+    "id": "shop-15",
+    "name": "Farmgate Corner",
+    "rating": 4.4,
+    "isOpen": true,
+    "area": "Farmgate",
+    "workingHours": "6:00 AM - 10:00 PM",
+    "menuImages": [],
+    "phone": "+8801805555555"
+  },
+  {
+    "id": "shop-16",
+    "name": "Noorjahan Biriyani",
+    "rating": 4.7,
+    "isOpen": true,
+    "area": "Farmgate",
+    "workingHours": "11:00 AM - 11:00 PM",
+    "menuImages": [],
+    "phone": "+8801806666666"
+  },
+  {
+    "id": "shop-17",
+    "name": "Motijheel Superstore",
+    "rating": 4.2,
+    "isOpen": true,
+    "area": "Motijheel",
+    "workingHours": "8:00 AM - 9:00 PM",
+    "menuImages": [],
+    "phone": "+8801807777777"
+  },
+  {
+    "id": "shop-18",
+    "name": "Arong Outlet",
+    "rating": 4.8,
+    "isOpen": false,
+    "area": "Motijheel",
+    "workingHours": "10:00 AM - 8:00 PM",
+    "menuImages": [],
+    "phone": "+8801808888888"
+  },
+  {
+    "id": "shop-19",
+    "name": "Shahbag Book Corner",
+    "rating": 4.0,
+    "isOpen": true,
+    "area": "Shahbag",
+    "workingHours": "9:00 AM - 9:00 PM",
+    "menuImages": [],
+    "phone": "+8801809999999"
+  },
+  {
+    "id": "shop-20",
+    "name": "Hazi Biriyani Shahbag",
+    "rating": 4.6,
+    "isOpen": true,
+    "area": "Shahbag",
+    "workingHours": "11:30 AM - 11:00 PM",
+    "menuImages": [],
+    "phone": "+8801810111111"
+  },
+  {
+    "id": "shop-21",
+    "name": "Tejgaon Mini Market",
+    "rating": 4.3,
+    "isOpen": true,
+    "area": "Tejgaon",
+    "workingHours": "7:00 AM - 10:00 PM",
+    "menuImages": [],
+    "phone": "+8801810222222"
+  },
+  {
+    "id": "shop-22",
+    "name": "Industrial Canteen",
+    "rating": 3.9,
+    "isOpen": true,
+    "area": "Tejgaon",
+    "workingHours": "6:30 AM - 8:00 PM",
+    "menuImages": [],
+    "phone": "+8801810333333"
+  },
+  {
+    "id": "shop-23",
+    "name": "Bashundhara City Mart",
+    "rating": 4.7,
+    "isOpen": true,
+    "area": "Bashundhara",
+    "workingHours": "9:00 AM - 10:30 PM",
+    "menuImages": [],
+    "phone": "+8801810444444"
+  },
+  {
+    "id": "shop-24",
+    "name": "Unimart Express",
+    "rating": 4.5,
+    "isOpen": true,
+    "area": "Bashundhara",
+    "workingHours": "8:00 AM - 11:00 PM",
+    "menuImages": [],
+    "phone": "+8801810555555"
+  },
+  {
+    "id": "shop-25",
+    "name": "Khilgaon Grocery",
+    "rating": 4.1,
+    "isOpen": true,
+    "area": "Khilgaon",
+    "workingHours": "7:00 AM - 9:00 PM",
+    "menuImages": [],
+    "phone": "+8801810666666"
+  },
+  {
+    "id": "shop-26",
+    "name": "Taltola Pharmacy",
+    "rating": 4.0,
+    "isOpen": true,
+    "area": "Khilgaon",
+    "workingHours": "24 Hours",
+    "menuImages": [],
+    "phone": "+8801810777777"
+  },
+  {
+    "id": "shop-27",
+    "name": "Malibagh Chowdhury",
+    "rating": 4.4,
+    "isOpen": true,
+    "area": "Malibagh",
+    "workingHours": "8:00 AM - 10:00 PM",
+    "menuImages": [],
+    "phone": "+8801810888888"
+  },
+  {
+    "id": "shop-28",
+    "name": "DCC Market Malibagh",
+    "rating": 4.2,
+    "isOpen": false,
+    "area": "Malibagh",
+    "workingHours": "9:00 AM - 7:00 PM",
+    "menuImages": [],
+    "phone": "+8801810999999"
+  },
+  {
+    "id": "shop-29",
+    "name": "Platinum Lounge",
+    "rating": 4.9,
+    "isOpen": true,
+    "area": "Gulshan 1",
+    "workingHours": "10:00 AM - 12:00 AM",
+    "menuImages": [],
+    "phone": "+8801811222222"
+  },
+  {
+    "id": "shop-30",
+    "name": "Lavender Café",
+    "rating": 4.6,
+    "isOpen": true,
+    "area": "Gulshan 2",
+    "workingHours": "8:00 AM - 11:00 PM",
+    "menuImages": [],
+    "phone": "+8801811333333"
+  }
+]

@@ -21,10 +21,19 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.john_12.ZoneRide"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a13bc7d5-0bc3-4388-abb4-884ebc848105"
+      }
+    },
+    "plugins": [
+      "expo-font"
+    ]
   }
 }

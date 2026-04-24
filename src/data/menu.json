@@ -1,0 +1,164 @@
+[
+  {
+    "id": "menu-1",
+    "shopId": "shop-1",
+    "name": "Kacchi Biryani",
+    "description": "Authentic Dhaka-style kacchi biryani with tender mutton, fragrant basmati rice",
+    "price": 350,
+    "category": "Rice & Biryani",
+    "isAvailable": true
+  },
+  {
+    "id": "menu-2",
+    "shopId": "shop-1",
+    "name": "Chicken Biryani",
+    "description": "Aromatic chicken biryani with spices and saffron rice",
+    "price": 220,
+    "category": "Rice & Biryani",
+    "isAvailable": true
+  },
+  {
+    "id": "menu-3",
+    "shopId": "shop-1",
+    "name": "Plain Rice + Chicken Curry",
+    "description": "Steamed basmati rice with homestyle chicken curry",
+    "price": 180,
+    "category": "Rice & Biryani",
+    "isAvailable": true
+  },
+  {
+    "id": "menu-4",
+    "shopId": "shop-1",
+    "name": "Beef Tehari",
+    "description": "Traditional beef tehari with aromatic spices",
+    "price": 200,
+    "category": "Rice & Biryani",
+    "isAvailable": false
+  },
+  {
+    "id": "menu-5",
+    "shopId": "shop-1",
+    "name": "Chicken Fry (2 pcs)",
+    "description": "Crispy fried chicken with secret spice blend",
+    "price": 160,
+    "category": "Snacks",
+    "isAvailable": true
+  },
+  {
+    "id": "menu-6",
+    "shopId": "shop-1",
+    "name": "Samosa (4 pcs)",
+    "description": "Crunchy samosa filled with spiced potato & vegetables",
+    "price": 80,
+    "category": "Snacks",
+    "isAvailable": true
+  },
+  {
+    "id": "menu-7",
+    "shopId": "shop-1",
+    "name": "Chicken Nuggets (6 pcs)",
+    "description": "Golden crispy chicken nuggets with dipping sauce",
+    "price": 140,
+    "category": "Snacks",
+    "isAvailable": true
+  },
+  {
+    "id": "menu-8",
+    "shopId": "shop-1",
+    "name": "French Fries",
+    "description": "Crispy golden fries with ketchup",
+    "price": 100,
+    "category": "Snacks",
+    "isAvailable": true
+  },
+  {
+    "id": "menu-9",
+    "shopId": "shop-1",
+    "name": "Mango Lassi",
+    "description": "Thick creamy mango yogurt drink",
+    "price": 90,
+    "category": "Drinks",
+    "isAvailable": true
+  },
+  {
+    "id": "menu-10",
+    "shopId": "shop-1",
+    "name": "Fresh Lemonade",
+    "description": "Freshly squeezed lemonade with mint",
+    "price": 60,
+    "category": "Drinks",
+    "isAvailable": true
+  },
+  {
+    "id": "menu-11",
+    "shopId": "shop-1",
+    "name": "Borhani",
+    "description": "Traditional spiced yogurt drink",
+    "price": 50,
+    "category": "Drinks",
+    "isAvailable": true
+  },
+  {
+    "id": "menu-12",
+    "shopId": "shop-1",
+    "name": "Firni",
+    "description": "Creamy rice pudding with cardamom and pistachios",
+    "price": 70,
+    "category": "Desserts",
+    "isAvailable": true
+  },
+  {
+    "id": "menu-13",
+    "shopId": "shop-1",
+    "name": "Gulab Jamun (3 pcs)",
+    "description": "Soft milk balls soaked in rose-flavored sugar syrup",
+    "price": 80,
+    "category": "Desserts",
+    "isAvailable": true
+  },
+  {
+    "id": "menu-14",
+    "shopId": "shop-1",
+    "name": "Family Pack Biryani",
+    "description": "Kacchi Biryani (4 servings) + 2 Borhani + Salad",
+    "price": 1200,
+    "category": "Combo Deals",
+    "isAvailable": true
+  },
+  {
+    "id": "menu-15",
+    "shopId": "shop-1",
+    "name": "Lunch Box Special",
+    "description": "Rice + Chicken Curry + Salad + Drink",
+    "price": 250,
+    "category": "Combo Deals",
+    "isAvailable": true
+  },
+  {
+    "id": "menu-16",
+    "shopId": "shop-1",
+    "name": "Naan (2 pcs)",
+    "description": "Soft tandoori naan bread",
+    "price": 40,
+    "category": "Sides",
+    "isAvailable": true
+  },
+  {
+    "id": "menu-17",
+    "shopId": "shop-1",
+    "name": "Garden Salad",
+    "description": "Fresh mixed vegetables with lemon dressing",
+    "price": 50,
+    "category": "Sides",
+    "isAvailable": true
+  },
+  {
+    "id": "menu-18",
+    "shopId": "shop-1",
+    "name": "Chef's Special Platter",
+    "description": "Kacchi Biryani + Chicken Fry + Firni + Borhani - Today only!",
+    "price": 550,
+    "category": "Specials",
+    "isAvailable": true
+  }
+]
