@@ -4,36 +4,45 @@ A zone-based delivery service app built with React Native and Expo. The app supp
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org/) v18 or later
-- [Expo CLI](https://docs.expo.dev/get-started/installation/) (comes with `npx`)
-- [Expo Go](https://expo.dev/go) app on your phone (Android / iOS), **or** an Android emulator / iOS simulator
+আগে এগুলো install করে নাও:
+
+1. **[Node.js](https://nodejs.org/)** — v18 বা তার পরের version (LTS recommended)
+2. **[Expo Go](https://expo.dev/go)** — তোমার ফোনে install করো (Android / iOS)
+   - অথবা Android Emulator / iOS Simulator ব্যবহার করতে পারো
+
+> **Note:** `npm` এবং `npx` Node.js এর সাথে automatically install হয়ে যায়।
 
 ## Getting Started
 
-### 1. Clone the repository
+### 1. ZIP extract করো
+
+ZIP ফাইলটা extract করো যেকোনো জায়গায়, তারপর terminal/command prompt এ সেই folder এ যাও:
 
 ```bash
-git clone https://github.com/shahadut907/zone-ride.git
-cd zone-ride
+cd ZoneRide
 ```
 
-### 2. Install dependencies
+> ⚠️ **`node_modules/` ফোল্ডারটি ZIP এ নেই** — এটা normal, পরের step এ install হয়ে যাবে।
+
+### 2. Dependencies install করো
 
 ```bash
 npm install
 ```
 
-### 3. Start the development server
+এতে কয়েক মিনিট লাগতে পারে (internet speed এর উপর depend করে)।
+
+### 3. Development server start করো
 
 ```bash
 npx expo start --clear
 ```
 
-This will open the Expo DevTools in your terminal. From there you can:
+Terminal এ একটা QR code আসবে। এরপর:
 
-- **Scan the QR code** with the Expo Go app on your phone
-- Press **`a`** to open on an Android emulator
-- Press **`i`** to open on an iOS simulator (macOS only)
+- 📱 **Expo Go** app দিয়ে QR code **scan** করো (ফোন আর PC একই WiFi তে থাকতে হবে)
+- **`a`** press করো Android emulator এ open করতে
+- **`i`** press করো iOS simulator এ open করতে (শুধু macOS)
 
 ## Available Scripts
 
